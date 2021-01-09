@@ -1,0 +1,11 @@
+body{
+    background: pink;
+}
+.cabeza{
+    position: fixed;
+    background: slateblue;
+    text-align: center;
+    padding: 15px;
+    height: 50px;
+    color: thistle;
+}

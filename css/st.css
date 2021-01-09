@@ -1,0 +1,35 @@
+body{
+    background-color: grey;
+    font-size: 16px;
+    color: white;
+}
+.cabecera{
+    background: red;
+    text-align: center;
+    padding: 5px;
+    margin-top: 10px;
+    margin-bottom: 20px;
+}
+.pie{
+    background: blue;
+    text-align: center;
+    padding: 5px;
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
+.derecha{
+    background: yellowgreen;
+    padding: 5px;
+    text-align: center;
+}
+.centro{
+    background: plum;
+    padding: 5px;
+    text-align: center;
+}
+.izquierda{
+    background: purple;
+    padding: 5px;
+    text-align: center;
+
+}
